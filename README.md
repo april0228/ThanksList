@@ -1,2 +1,8 @@
-# ThanksList
-None
+![avatar](./resources/BIT.jpg)   
+   
+
+        一周前在回家的火车上和一个老乡聊天，还以为和我一样大四（更新：≈毕业了），结果才大一，没忍住百感交集。于是想舞文弄墨写一些感想，写了删，删了写，最终决定还是直接放论文的致谢部分。   
+        附：人在沙发，已答辩完。
+
+![avatar](./resources/0001.jpg)
+![avatar](./resources/0002.jpg)
